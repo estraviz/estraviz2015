@@ -1,0 +1,96 @@
+@import url(http://fonts.googleapis.com/css?family=Arvo);
+@import url(http://fonts.googleapis.com/css?family=Ubuntu);
+
+.nav, .navbar-header, h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{font-family: 'Arvo', serif;}
+div, p {font-family: 'Ubuntu', sans-serif;}
+
+#sidebar a {
+    color: rgb(24,92,190);
+}
+
+#sidebar a:hover {
+    color: rgb(204,0,0);
+}
+
+h1 a {
+    color: inherit;
+}
+
+a {
+    color: rgb(24,92,190);
+}
+
+a:hover {
+    color: rgb(204,0,0);
+    text-shadow: 1px 1px 1px #aaa;
+}
+
+.entry-content .end-of-text {
+    text-align: center;
+    color: #AEAEAE;
+    font-size: 1em;
+}
+
+.page-header h1 a {
+    color: rgb(24,92,190);
+    text-decoration: none;
+    pointer-events: none;
+    cursor: default;
+}
+
+.center-class {
+    text-align: center;
+    font-size: small;
+}
+
+.fa-heart-custom {
+     color: rgb(204,0,0);
+}
+
+.fa-apple-custom {
+     color: rgb(153,163,170);
+}
+
+.entry-title-custom {
+    color: rgb(24,92,190);
+}
+
+.big-title {
+    font-weight: bold;
+}
+
+.archives-title {
+	color: rgb(24,92,190);
+}
+
+body { background: url('../../images/background.png'); }
+
+.content-custom { background-color: #FFFFFF; }
+.navbar-header .navbar-brand {
+	color: #FFFFFF;
+	text-shadow: 1px 1px 1px #aaa;
+}
+
+.copy {
+
+}
+
+#banner {
+    padding: 85px 0;
+}
+
+.btn-more {
+	color: rgb(234,234,234);
+	background-color: rgb(204,0,0);
+}
+
+.btn-more:hover {
+	color: #FFFFFF;
+	background-color: rgb(174,0,0);
+	text-shadow: none;
+}
+.creditos {
+	font-size: small;
+}
+
+img, div.figure { max-width: 100%; height: auto; }
