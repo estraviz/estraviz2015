@@ -1,2 +1,2 @@
-# estraviz.github.io
+# JavierEstraviz.com
 This is my Personal Website.
