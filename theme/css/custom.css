@@ -77,6 +77,7 @@ body { background: url('../../images/background.png'); }
 
 #banner {
     padding: 85px 0;
+    text-shadow: 2px 2px 2px #1C77CD;
 }
 
 .btn-more {
